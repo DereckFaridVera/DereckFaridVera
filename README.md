@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-Soy un apasionado por aprender sobre la programacion y cada dia mejorar mis conocimientos. 
+Soy un apasionado por aprender sobre la programación y cada día mejorar mis conocimientos. 
 </p>
 
 - 👨‍💻 Actualmente estoy aprendiendo el uso del framework REACT.
@@ -18,7 +18,7 @@ Soy un apasionado por aprender sobre la programacion y cada dia mejorar mis cono
 	<a href="https://www.linkedin.com/in/dereck-farid-vera-alarcon-5473a327b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### 🛠 &nbsp;Technologies that I work with
+### 🛠 &nbsp;Tecnologías con las que trabajo
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
